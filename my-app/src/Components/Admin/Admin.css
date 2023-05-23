@@ -1,0 +1,58 @@
+.centered {
+  max-width: 800px;
+  margin: 0 auto;
+  padding-top: 120px;
+  font-family: Arial, sans-serif;
+}
+
+.section-divider {
+  border-bottom: 2px solid #ccc;
+  /* margin-bottom: 2px; */
+  padding-bottom: 20px;
+  
+}
+
+.clearfix {
+  clear: both;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+h2 {
+  margin-top: 40px;
+}
+
+p {
+  margin-bottom: 20px;
+  /* line-height: 1.5; */
+}
+
+input[type="number"] {
+  padding: 10px;
+  margin-right: 10px;
+}
+
+button {
+  background-color: #008CBA;
+  color: white;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.updateButton{
+  width: 250px;
+}
+
+.delete-button {
+  color: white;
+  background-color: red;
+  border: none;
+  padding: 10px;
+  float: right;
+  margin-left: 10px;
+}
